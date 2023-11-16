@@ -1,2 +1,1 @@
-# Building End-to-End Apps with CSharp11 and .NET7
- Building End-to-End Apps with C#11 and .NET 7, by BPB Publications
+Companion code bundle for BPB book provisionally titled _Building C# 11: For Cloud, Web, and Desktop Applications_
